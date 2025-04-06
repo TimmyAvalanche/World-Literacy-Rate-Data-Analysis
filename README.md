@@ -9,6 +9,9 @@ A comprehensive summary of findings, trends, and policy recommendations based on
 
 Power BI Dashboard (.pbix)
 Interactive visualizations to explore literacy rates, government spending, and trends over time across continents and countries.
+Here is a preview of the Power BI dashboard:
+
+![Dashboard Screenshot](Fact Finder - GLobal Literacy Rate) and (Fact Finder - GLobal Literacy Rate2)
 
 Cleaned Dataset (.xlsx)
 The processed version of the raw dataset, including missing data treatment and standardizations.
