@@ -19,6 +19,11 @@ The processed version of the raw dataset, including missing data treatment and s
 R Scripts (.R)
 Code used for data cleaning, multiple imputation, and statistical correlation analysis.
 
+![R script for missing data treatment](https://github.com/user-attachments/assets/8a470825-e288-48a2-af33-d97ffbd8ade5)
+
+![Console history showing steps of missing data treatment of WLR using R](https://github.com/user-attachments/assets/c7837096-8ceb-4de9-a756-1be44f49e671)
+
+![Environment view of missing data treatment for WLR using R](https://github.com/user-attachments/assets/fe38b792-3fff-43cd-a97d-f2a9c2d0cb11)
 
 📊 Key Topics Covered
 Missing data treatment using multiple imputation (MICE package in R)
